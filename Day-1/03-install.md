@@ -16,7 +16,7 @@
   - Modify your active Configuration
   - Search for AWS/Terraform which you want to install
   - Keep Default
-  - (final Step) - (Right Awwor)> Rebuild Container
+  - (final Step) - (Right Arrow)> Rebuild Container
 - Follow the steps provided in the Downloads [Page](https://developer.hashicorp.com/terraform/downloads) for Linux.
 
 ## Linux
